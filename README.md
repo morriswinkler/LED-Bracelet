@@ -4,6 +4,8 @@ LED-Bracelet
 
 More info on my blog http://www.slickstreamer.info/2014/02/led-bracelet-accelerometer-3dprinting.html
 
+Thingiverse designs on http://www.thingiverse.com/thing:248567   
+
 Hardware
 -----
 * Trinket - 3.3V Logic
