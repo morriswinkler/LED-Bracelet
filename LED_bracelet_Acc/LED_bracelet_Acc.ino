@@ -6,7 +6,7 @@
 #define MOVE_THRESHOLD 6000
 #define PIXEL_OUTPUT 1           
 #define ANALOG_INPUT 2           
-#define NUM_PIXELS 19            
+#define NUM_PIXELS 6            
 byte brightness = 180; 
 
 PROGMEM byte exp_map[256]={
@@ -46,7 +46,7 @@ uint8_t  spectrum_part = 0,
          nr_shackes = 0;
 
 
-Adafruit_NeoPixel pixels = Adafruit_NeoPixel(NUM_PIXELS, PIXEL_OUTPUT);
+Adafruit_NeoPixel pixels = Adafruit_NeoPixel(NUM_PIXELS, PIXEL_OUTPUT, NEO_GRB + NEO_KHZ800);
 Adafruit_TinyLSM303 lsm;
 
 void setup() 
