@@ -1,4 +1,6 @@
 Section,Part,QTY,Description,Reseller,Product URL,Unit Price,Total
+3D Printed,Bracelet,1,3D printed bracelet,none,,0.0,0.0
+,,,,,,Sub Total,0.0
 Electronics,Flora_LSM303,1,LSM303 Accelerometer/Compass ,Adafruit,http://tinyurl.com/qc7gsq7,15.0,15.0
 Electronics,Lipo,1,Lithium Ion Polymer Battery,Adafruit,http://tinyurl.com/l9xqkf7,6.0,6.0
 Electronics,Male_Header_connector,1,2 Pin Molex Crimp Male HeaderConnector,www.segor.de,http://tinyurl.com/nf25dhf http://tinyurl.com/pkpu34f,2.0,2.0
