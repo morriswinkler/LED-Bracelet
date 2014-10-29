@@ -2,6 +2,8 @@ LED-Bracelet
 ============
 3d printed LED bracelet runing on Adafruit trinket (Attiny85).
 
+For assembly instructions see the [wiki](https://github.com/morriswinkler/LED-Bracelet/wiki).
+
 Hardware
 -----
 * Trinket - 3.3V Logic
