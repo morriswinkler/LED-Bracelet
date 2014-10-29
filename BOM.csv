@@ -1,14 +1,14 @@
 Section,Part,QTY,Description,Reseller,Product URL,Unit Price,Total
-3D Printed,Bracelet,1,3D printed bracelet,none,,0.0,0.0
-,,,,,,Sub Total,0.0
+3D Printed,Bracelet,1,3D printed bracelet,none,http://tinyurl.com/3sp0,15.0,15.0
+,,,,,,Sub Total,15.0
 Electronics,Flora_LSM303,1,LSM303 Accelerometer/Compass ,Adafruit,http://tinyurl.com/qc7gsq7,15.0,15.0
 Electronics,Lipo,1,Lithium Ion Polymer Battery,Adafruit,http://tinyurl.com/l9xqkf7,6.0,6.0
-Electronics,Male_Header_connector,1,2 Pin Molex Crimp Male HeaderConnector,www.segor.de,http://tinyurl.com/nf25dhf http://tinyurl.com/pkpu34f,2.0,2.0
-Electronics,Mic_MAX9814,1,Electret Microphone Amplifier,Adafruit,http://tinyurl.com/nh3bvcp,0.0,0.0
+Electronics,Male_Header_connector,1,2 Pin Molex Crimp Male HeaderConnector,www.segor.de,http://tinyurl.com/nf25dhf http://www.segor.de/#Q%3DFL2T%26M%3D1,2.0,2.0
+Electronics,Mic_MAX9814,1,Microphone Amplifier,Adafruit,http://tinyurl.com/nh3bvcp,0.0,0.0
 Electronics,Neo_Pixel,1,NeoPixel Black 60 LED ,Adafruit,http://tinyurl.com/mvmx7k2,25.0,25.0
 Electronics,TrinketV3,1,Mini Microcontroller ,Adafruit,http://tinyurl.com/k9juke8,10.0,10.0
 ,,,,,,Sub Total,58.0
 Vitamins,Magnet_Big,1,"Disc magnet 10 mm, height 5 mm",supermagnete.de,http://tinyurl.com/m9cd47n,0.7,0.7
 Vitamins,Magnet_Small,1,"Disc magnet 10 mm, height 1 mm",supermagnete.de,http://tinyurl.com/mtqjgbv,0.25,0.25
 ,,,,,,Sub Total,0.95
-,,,,,,Total,58.95
+,,,,,,Total,73.95
