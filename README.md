@@ -17,7 +17,7 @@ Hardware
 * Pin Header Male plug
 * isolating tape ( Kapton )
 
-Tooles
+Tools
 -----
 * 3D printer
 * Soldering iron
